@@ -1,0 +1,46 @@
+security.microsoft.com 
+compliance.microsoft.com 
+
+outlook.office365.com 
+outlook.office.com 
+outlook.live.com 
+outlook.com 
+
+teams.microsoft.com 
+teams.live.com 
+join.microsoft.com 
+
+lync.com 
+
+sharepoint.com (excluding user-generated content) 
+sharepointonline.com (excluding user-generated content) 
+svc.ms 
+
+onedrive.live.com 
+onedrive.com 
+1drv.com (excluding user-generated content) 
+livefilestore.com (excluding user-generated content) 
+storage.live.com 
+
+skype.com 
+skyapi.live.net 
+
+yammer.com 
+assets-yammer.com 
+
+sway.com 
+sway.office.com 
+
+tasks.office.com 
+
+forms.office.com 
+
+portal.office.com 
+admin.microsoft.com 
+www.office.com (subdomains are not in-scope unless otherwise listed) 
+webshell.suite.office.com 
+protection.office.com 
+officeapps.live.com 
+apis.live.net 
+settings.live.net 
+policies.live.net 
