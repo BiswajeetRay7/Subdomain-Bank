@@ -1,0 +1,8 @@
+login.windows.net
+login.microsoftonline.com
+login.live.com
+account.live.com
+account.windowsazure.com
+account.activedirectory.windowsazure.com
+credential.activedirectory.windowsazure.com
+passwordreset.microsoftonline.com
