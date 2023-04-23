@@ -1,5 +1,6 @@
 # Subdomain-Bank
 
+This Subdomain bank is actively updated.
 
 #Dutch Goverment 
 
