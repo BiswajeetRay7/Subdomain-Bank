@@ -1,7 +1,5 @@
 # Subdomain-Bank
 
-This Subdomain bank is actively updated.
+## This Subdomain bank is actively updated and monitored
 
-#Dutch Goverment 
-
-Vulnerabilty report : https://english.ncsc.nl/contact/reporting-a-vulnerability-cvd
+### Collections of subdomains.
